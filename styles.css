@@ -21,6 +21,7 @@ header {
   background: #333;
   color: #fff;
   padding: 20px 0;
+  position: sticky;
 }
 
 header h1 {
@@ -114,4 +115,8 @@ butto:hover {
 
 button:focus {
   outline: none;
+}
+
+#social-links {
+  text-align: center;
 }
