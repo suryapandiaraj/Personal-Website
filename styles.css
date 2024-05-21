@@ -1,6 +1,6 @@
 /* Reset some default browser styles */
 * {
-  margin: 0;
+  margin: 0px;
   padding: 0;
   box-sizing: border-box;
 }
@@ -10,25 +10,13 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
 }
-
+​#about {
+  margin-top: 400px;
+}
 .container {
   max-width: 960px;
   margin: 0 auto;
   padding: 0 20px;
-}
-
-header {
-  margin-top: 0px;
-  background: #333;
-  color: #fff;
-  padding: 20px 0;
-  position: sticky;
-  width: 100%;
-}
-
-header h1 {
-  margin: 0;
-  font-size: 24px;
 }
 
 nav ul {
@@ -124,4 +112,40 @@ button:focus {
 
 #social-links {
   text-align: center;
+}
+#header {
+  margin-top: 0px;
+  background: #333;
+  color: #fff;
+  padding: 20px 0;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  text-align: center;
+}
+
+#header > h1 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.header-container {
+  margin: 0 auto;
+  padding: 0 20px;
+  display: inline-block;
+  text-align: left;
+  vertical-align: top;
+  zoom: 1;
+}
+.info {
+  float: left;
+  margin-right: 400px;
+}
+.contact-header {
+  float: right;
+  margin-top: 10px;
+}
+
+form {
+  margin-left: 20px;
 }
