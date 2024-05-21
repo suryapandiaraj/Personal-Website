@@ -132,7 +132,6 @@ button:focus {
 .header-container {
   width: 70%;
   height: 70%;
-  background-color: aqua;
   margin: 0 auto;
   padding: 0 20px;
   display: inline-block;
@@ -142,13 +141,11 @@ button:focus {
 }
 .info {
   float: left;
-  background-color: red;
   margin-left: 0px;
   /* margin-right: 400px; */
 }
 .contact-header {
   float: right;
-  background-color: blue;
   margin-top: 10px;
   margin-right: 0px;
 }
