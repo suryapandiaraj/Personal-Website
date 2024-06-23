@@ -44,7 +44,8 @@ section h2 {
   margin-left: 20px;
 }
 
-.portfolio-item {
+.portfolio-item,
+.experience-item {
   margin-bottom: 20px;
   margin-left: 20px;
 }
@@ -65,7 +66,8 @@ footer p {
   margin: 0;
 }
 
-.portfolio-item > ul {
+.portfolio-item > ul,
+.experience-item > ul {
   margin-left: 20px;
 }
 
