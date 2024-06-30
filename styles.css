@@ -46,7 +46,7 @@ section h2 {
 
 .portfolio-item,
 .experience-item {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   margin-left: 20px;
 }
 
@@ -95,7 +95,7 @@ textarea {
 /* Add styles for the button */
 button {
   display: inline-block;
-  background-color: #007bff;
+  background-color: #333;
   color: #fff;
   padding: 10px 20px;
   border: none;
@@ -107,7 +107,7 @@ button {
 }
 
 button:hover {
-  background-color: #0056b3;
+  background-color: #515152;
 }
 
 button:focus {
