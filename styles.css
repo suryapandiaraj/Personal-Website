@@ -26,6 +26,7 @@ nav ul {
 nav ul li {
   display: inline;
   margin-right: 20px;
+  font-size: medium;
 }
 
 nav ul li a {
@@ -53,6 +54,15 @@ section h2 {
 .portfolio-item img {
   max-width: 100%;
   height: auto;
+}
+
+.portfolio-item > ul > li {
+  /* list-style: none; */
+  /* display: inline-block; */
+  text-align: justify;
+  /* margin: 2px; */
+  /* background: yellow; */
+  word-wrap: break-word;
 }
 
 footer {
