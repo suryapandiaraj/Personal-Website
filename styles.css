@@ -7,7 +7,7 @@
 
 /* Basic styling */
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Poppins', sans-serif;
   line-height: 1.6;
 }
 ​#about {
@@ -182,3 +182,4 @@ form {
   -webkit-mask-size: 100% 100%;
   mask-size: 100% 100%;
 }
+
