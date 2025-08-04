@@ -7,7 +7,7 @@
 
 /* Basic styling */
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.6;
 }
 ​#about {
@@ -182,4 +182,5 @@ form {
   -webkit-mask-size: 100% 100%;
   mask-size: 100% 100%;
 }
+
 
